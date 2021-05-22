@@ -1,0 +1,10 @@
+@media screen and (min-width: 75rem) {
+  .pattern-top {
+    left: 0rem;
+  }
+
+  .pattern-bottom {
+    bottom: -25rem;
+    right: -10rem;
+  }
+}
